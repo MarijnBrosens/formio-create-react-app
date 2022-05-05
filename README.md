@@ -8,6 +8,7 @@ https://codesandbox.io/s/formio-with-custom-element-templates-error-handling-426
 
 # Error when trying to install latest version of formio with react 18 in this local project
 
+```
 npm ERR! code ERESOLVE
 npm ERR! ERESOLVE unable to resolve dependency tree
 npm ERR! 
@@ -29,6 +30,7 @@ npm ERR! See /Users/marijnbrosens/.npm/eresolve-report.txt for a full report.
 
 npm ERR! A complete log of this run can be found in:
 npm ERR!     /Users/marijnbrosens/.npm/_logs/2022-05-05T12_49_02_329Z-debug-0.log
+```
 
 # Getting Started with Create React App
 
