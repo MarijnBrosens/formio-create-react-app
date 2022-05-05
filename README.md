@@ -1,3 +1,35 @@
+# Codesandbox version (React 17)
+
+https://codesandbox.io/s/formio-with-custom-element-templates-error-handling-react-17-dnqdbi?file=/src/index.js
+
+# Codesandbox version (React 18)
+
+https://codesandbox.io/s/formio-with-custom-element-templates-error-handling-426gvy?file=/src/index.js
+
+# Error when trying to install latest version of formio with react 18 in this local project
+
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: formio-create-react-app@0.1.0
+npm ERR! Found: react@18.1.0
+npm ERR! node_modules/react
+npm ERR!   react@"^18.1.0" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer react@"^15.3.0 || ^16.0.0 || ^17.0.0" from @formio/react@5.2.1
+npm ERR! node_modules/@formio/react
+npm ERR!   @formio/react@"*" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force, or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! See /Users/marijnbrosens/.npm/eresolve-report.txt for a full report.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/marijnbrosens/.npm/_logs/2022-05-05T12_49_02_329Z-debug-0.log
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
